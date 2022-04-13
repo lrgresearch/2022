@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: default
 title: Projects
+parent: Research
+nav_order: 2
 ---
 
 [Back to Research page...](research.md)

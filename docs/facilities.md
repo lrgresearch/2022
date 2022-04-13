@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Facilities
+nav_order: 2
 ---
 
 # Facilities

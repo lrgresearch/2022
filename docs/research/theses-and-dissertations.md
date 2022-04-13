@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: default
 title: Theses and Dissertations
+parent: Research
+nav_order: 4
 ---
 
 [Back to Research Page...](research.md)

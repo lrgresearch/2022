@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Funding
+nav_order: 4
 ---
 
 ## Funding

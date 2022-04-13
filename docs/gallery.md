@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Gallery
+nav_order: 5
 ---
 
 ![Image](files/gallery/grup4.jpg)

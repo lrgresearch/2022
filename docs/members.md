@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Members
+nav_order: 6
 ---
 
 ## Faculty Members

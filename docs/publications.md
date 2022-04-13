@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Publications
+nav_order: 7
 ---
 
 The articles are copyrighted (©) by the respective publishers. Please do not hesitate to contact to obtain author copies of the articles.
