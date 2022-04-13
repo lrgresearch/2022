@@ -88,8 +88,8 @@ Focus on Hybrid Investigation of Defects in 2D/3D Structures.
 
 ## We are supporting...
 
-[![Image](../../assets/images/aestimosmall.gif)](http://www.aestimosolver.org/) | [Download v.2.0](https://github.com/aestimosolver/aestimo/releases/download/v2.0/aestimo-v.2.0-master.zip)
-[![Image](../../assets/images/gpaw-tools.png)](https://www.lrgresearch.org/gpaw-tools/) | [Download latest development release](https://github.com/lrgresearch/gpaw-tools/archive/refs/heads/main.zip)
+[![Image](../assets/images/aestimosmall.gif)](http://www.aestimosolver.org/) | [Download v.2.0](https://github.com/aestimosolver/aestimo/releases/download/v2.0/aestimo-v.2.0-master.zip)
+[![Image](../assets/images/gpaw-tools.png)](https://www.lrgresearch.org/gpaw-tools/) | [Download latest development release](https://github.com/lrgresearch/gpaw-tools/archive/refs/heads/main.zip)
 
 We are actively supporting to develop Aestimo 1D Self-consistent Schrödinger-Poisson solver and gpaw-tools UI/GUI for ASE/GPAW calculator.
 
