@@ -14,10 +14,10 @@ permalink: /docs/research
 ## Project websites
 
 [![D.E.H.A.](../../assets/images/deha.png)](https://www.lrgresearch.org/deha/)
-[<img align="left" width="220" src="../../assets/images/ultrathin.png">](https://www.lrgresearch.org/ultrathin/)
-[<img width="220" src="../../assets/images/sinongan.png">](https://www.lrgresearch.org/sinongan/)
-[<img width="220" src="../../assets/images/graphenepd.png">](https://www.lrgresearch.org/graphenepd/)
-[<img width="220" src="../../assets/images/oxidehemt.png">](https://www.lrgresearch.org/oxidehemt/)
+[![Ultrathin](../../assets/images/ultrathin.png)](https://www.lrgresearch.org/ultrathin/)
+[![SinOnGaN](../../assets/images/sinongan.png)](https://www.lrgresearch.org/sinongan/)
+[![graphenePD](../../assets/images/graphenepd.png)](https://www.lrgresearch.org/graphenepd/)
+[![oxideHEMT](../../assets/images/oxidehemt.png)](https://www.lrgresearch.org/oxidehemt/)
 
 .
 
