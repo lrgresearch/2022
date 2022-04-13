@@ -154,7 +154,7 @@ Version 1.2 can be downloaded from this [link](https://github.com/sblisesivdin/a
 
 2016 TÜBA "International Academy Prizes, GEBİP and TEÇEP Awards” were handed to the owners under the auspices of Presidency with the ceremony held on February 1, 2017 in the Presidential Complex. Assoc. Prof. Sefer Bora Lisesivdin was awarded the TÜBA GEBİP Prize in the category of Physics. He received his award from deputies of Prime Minister Nurettin Canikli.
 
-![Image](../assets/images/tuba2017.jpg)
+![Image](../../assets/images/tuba2017.jpg)
 
 
 ### Publications in 2016!

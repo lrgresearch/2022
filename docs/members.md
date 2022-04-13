@@ -6,25 +6,25 @@ nav_order: 6
 
 ## Faculty Members
 
-![MKasap](../assets/images/members/mkasap.jpg) | [Prof. Dr. Mehmet Kasap](https://avesis.gazi.edu.tr/mkasap)
-![SBLisesivdin](../assets/images/members/bora.jpg) | [Prof. Dr. Sefer Bora Lisesivdin](https://www.lrgresearch.org/bora/)
-![BLisesivdin](../assets/images/members/nopic.png) | [Prof. Dr. Beyza Lisesivdin](https://avesis.gazi.edu.tr/beyzas)
+![MKasap](../../assets/images/members/mkasap.jpg) | [Prof. Dr. Mehmet Kasap](https://avesis.gazi.edu.tr/mkasap)
+![SBLisesivdin](../../assets/images/members/bora.jpg) | [Prof. Dr. Sefer Bora Lisesivdin](https://www.lrgresearch.org/bora/)
+![BLisesivdin](../../assets/images/members/nopic.png) | [Prof. Dr. Beyza Lisesivdin](https://avesis.gazi.edu.tr/beyzas)
 
 ## Postdoctorate Research Fellow
 
-![PNarin](../assets/images/members/polat.jpg) | [Dr Polat Narin](https://sites.google.com/view/polatnarin/home?authuser=0) (@ AYBU)
+![PNarin](../../assets/images/members/polat.jpg) | [Dr Polat Narin](https://sites.google.com/view/polatnarin/home?authuser=0) (@ AYBU)
 
 ## Graduate (PhD/Masters) Students
 
-![EKutluNarin](../assets/images/members/ece.jpg) | Mrs Ece Kutlu Narin, MSc (@ Ankara University, SBL is 2nd supervisor)
-![MYesiltepe](../assets/images/members/nopic.png) | Ms Meltem Yesiltepe, BEng, MSc
-![MTHaliloglu](../assets/images/members/nopic.png) | Mr Mehmet Taha Haliloglu, MSc
-![MYayla](../assets/images/members/nopic.png) | Ms Meltem Yayla, BSc
-![THan](../assets/images/members/nopic.png) | Ms Tugce Han, BSc
-![GErcetin](../assets/images/members/nopic.png) | Ms Gul Ercetin, BSc
-![PTurhan](../assets/images/members/nopic.png) | Mrs Pakize Turhan, BSc
-![UCaglar](../assets/images/members/nopic.png) | Mr. Umut Caglar, BEng
-![SKazanc](../assets/images/members/nopic.png) | Mr. Sefa Kazanc, BEng (@ Faculty of Technology, SBL is 2nd supervisor)
+![EKutluNarin](../../assets/images/members/ece.jpg) | Mrs Ece Kutlu Narin, MSc (@ Ankara University, SBL is 2nd supervisor)
+![MYesiltepe](../../assets/images/members/nopic.png) | Ms Meltem Yesiltepe, BEng, MSc
+![MTHaliloglu](../../assets/images/members/nopic.png) | Mr Mehmet Taha Haliloglu, MSc
+![MYayla](../../assets/images/members/nopic.png) | Ms Meltem Yayla, BSc
+![THan](../../assets/images/members/nopic.png) | Ms Tugce Han, BSc
+![GErcetin](../../assets/images/members/nopic.png) | Ms Gul Ercetin, BSc
+![PTurhan](../../assets/images/members/nopic.png) | Mrs Pakize Turhan, BSc
+![UCaglar](../../assets/images/members/nopic.png) | Mr. Umut Caglar, BEng
+![SKazanc](../../assets/images/members/nopic.png) | Mr. Sefa Kazanc, BEng (@ Faculty of Technology, SBL is 2nd supervisor)
 
 ## Collaborations (Alphabetically listed)
 
