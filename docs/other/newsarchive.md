@@ -6,30 +6,30 @@ nav_order: 1
 
 The latest news can be found at our [home page](index.md). This page is the archive.
 
-#### September 2020
+### September 2020
 
-* Our **"[Structural parameters and electronic properties of 2D carbon allotrope: graphene with a kagome lattice structure](https://doi.org/10.1016/j.cplett.2020.138006)"** titled study is accepted at Chem. Phys. Lett. This study is a joint DFT study which was done at University of Ulm visit between Nov. 2019 - Feb 2020. 
+* Our "[Structural parameters and electronic properties of 2D carbon allotrope: graphene with a kagome lattice structure](https://doi.org/10.1016/j.cplett.2020.138006)" titled study is accepted at Chem. Phys. Lett. This study is a joint DFT study which was done at University of Ulm visit between Nov. 2019 - Feb 2020. 
 
-* Reference paper for Aestimo 1D solver: **"[General-purpose open-source 1D self-consistent Schrödinger-Poisson Solver: Aestimo 1D](https://doi.org/10.1016/j.commatsci.2020.110015)"** which gives a general overview of the Aestimo 1D has been published in Comput. Mater. Sci. Aestimo 1D is an open-source one-dimensional Schrödinger-Poisson solver project that is started by Prof. Lisesivdin in 2012.
+* Reference paper for Aestimo 1D solver: "[General-purpose open-source 1D self-consistent Schrödinger-Poisson Solver: Aestimo 1D](https://doi.org/10.1016/j.commatsci.2020.110015)" which gives a general overview of the Aestimo 1D has been published in Comput. Mater. Sci. Aestimo 1D is an open-source one-dimensional Schrödinger-Poisson solver project that is started by Prof. Lisesivdin in 2012.
 
-#### May 2020
+### May 2020
 
 * We have attended the [Kobit-4 Quantum Optics and Information meeting](https://kobit.org.tr/tr/) held online because of pandemic with two proceedings.
 * Tugce Han is joined to our group. Welcome Tugce.
 
-#### March 2020
+### March 2020
 
 * Congratulations! Polat Narin has been selected as an **Outstanding Reviewer** for **Nanotechnology** for **2019**, in recognition of the high quality and timeliness of his reviews during the year. 
 
-#### February 2020
+### February 2020
 
-* Our first study of 2020 **"[Effects of Annealing under Different Atmospheres on Structural and Optical Properties of USCVD grown ZnO Nanostructures](https://doi.org/10.1016/j.mseb.2020.114506)"** is published at  Mater. Sci. Eng. B. This study is a part of our TUBITAK project 116F197 and second experimental publication from this project.  Study shows the effect of usage of Argon and Oxygen atmospheres in the growth of ZnO nanoparticles in Mist CVD growth method.
+* Our first study of 2020 "[Effects of Annealing under Different Atmospheres on Structural and Optical Properties of USCVD grown ZnO Nanostructures](https://doi.org/10.1016/j.mseb.2020.114506)" is published at  Mater. Sci. Eng. B. This study is a part of our TUBITAK project 116F197 and second experimental publication from this project.  Study shows the effect of usage of Argon and Oxygen atmospheres in the growth of ZnO nanoparticles in Mist CVD growth method.
 
-#### January 2020
+### January 2020
 
 * Meltem Yayla is joined to our group. Welcome Meltem.
 * Prof. Lisesivdin is returned from 3 month-long studies held in Institute for Quantum Optics (IQO), University of Ulm. It was decided to increase the number of studies and collaboration between LRG and IQO.
-* New publication **"[Investigation of electronic and optical properties of wurtzite MgZnO using GGA + U formalism](https://doi.org/10.1080/09500839.2019.1696998)”** is currently published at Philos. Mag. Lett.  journal. Study is providing a new way to find better electronic structure calculations where classical DFT approaches fell short. 
+* New publication "[Investigation of electronic and optical properties of wurtzite MgZnO using GGA + U formalism](https://doi.org/10.1080/09500839.2019.1696998)” is currently published at Philos. Mag. Lett.  journal. Study is providing a new way to find better electronic structure calculations where classical DFT approaches fell short. 
 
 ## Older News Style
 
@@ -53,13 +53,11 @@ Thanks to all colleagues, who made these publications possible.
 
 This year's second and seemed to be the last graduation from the group! Kemal Berk Sönmez has finished his MSc studies about the fabrication and characterization of TaN resistors for GaN-based MMIC systems. Congratulations Kemal Berk!
 
-
 ### Mehmet Taha Haliloğlu is graduated. Congratulations Mr. Haliloğlu, MSc.
 
 *May 15 2019, by S. B. Lisesivdin*
 
 This year's first graduation! Mehmet Taha Haliloğlu has finished his MSc studies about the application of back side via etching on SiC substrates for fabrication of GaN-based field effect transistors. He is continuing to work at Bilkent Nanotam - ABMikroNano Complex as a senior engineer. Congratulations Mehmet Taha!
-
 
 ### Publications in 2018!
 
@@ -156,7 +154,7 @@ Version 1.2 can be downloaded from this [link](https://github.com/sblisesivdin/a
 
 2016 TÜBA "International Academy Prizes, GEBİP and TEÇEP Awards” were handed to the owners under the auspices of Presidency with the ceremony held on February 1, 2017 in the Presidential Complex. Assoc. Prof. Sefer Bora Lisesivdin was awarded the TÜBA GEBİP Prize in the category of Physics. He received his award from deputies of Prime Minister Nurettin Canikli.
 
-![Image](files/tuba2017.jpg)
+![Image](../assets/images/tuba2017.jpg)
 
 
 ### Publications in 2016!

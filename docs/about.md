@@ -9,7 +9,7 @@ Low-dimensional Materials and Systems (LRG) is a research group studying the phy
 
 LRG is located at Laboratory Building, Faculty of Science at Gazi University, Ankara, Turkey.
 
-![Image of Gazi University](files/gazi.png)
+![Image of Gazi University](../assets/images/gazi.png)
 
 We are capable to conduct both experimental and calculations studies. More information about our facilities can be found [here](facilities.md).
 
@@ -24,4 +24,4 @@ Department of Physics, Faculty of Science, Gazi University, Ankara, Turkey 06500
 
 ## Map
 [Click for detailed map.](https://www.openstreetmap.org/#map=16/39.9378/32.8159)
-![Gazi Map](files/map.png)
+![Gazi Map](../assets/images/map.png)
