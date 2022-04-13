@@ -2,90 +2,104 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Low-dimensional Materials and Systems Research Group @ Gazi Univ."
 permalink: /
 ---
 
-# Focus on writing good documentation.
+# Next in LRG 2022.
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Focus on Hybrid Investigation of Defects in 2D/3D Structures.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[More information](research.md#next-in-lrg){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
-## Getting started
+## News
 
-### Dependencies
+#### March 2022
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+* Beyza Lisesivdin, has been appointed to full professor to Gazi University, Faculty of Science, Department of Physics. Congratulations.
+* New version (v22.3.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-2230) page.
 
-### Quick start: Use as a GitHub Pages remote theme
+#### February 2022
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
+* Sefa Kazanc is joined to our group. Welcome Sefa.
+* Umut Caglar is joined to our group. Welcome Umut.
+* A new article **"[A Structural Analysis of Ultrathin Barrier (In)AlN/GaN Heterostructures for GaN‐based High‐frequency Power Electronics](https://doi.org/10.1002/sia.7067)"** is published in Surf. Interface Anal.
 
-```yaml
-remote_theme: just-the-docs/just-the-docs
-```
+#### January 2022
 
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+* A new article **"[gpaw-tools–higher-level user interaction scripts for GPAW calculations and interatomic potential based structure optimization](https://doi.org/10.1016/j.commatsci.2022.111201)"** is published in Comput. Mater. Sci.
 
-### Local installation: Use the gem-based theme
+#### December 2021
 
-1. Install the Ruby Gem
-  ```bash
-  $ gem install just-the-docs
-  ```
-  ```yaml
-  # .. or add it to your your Jekyll site’s Gemfile
-  gem "just-the-docs"
-  ```
+* New version (v21.12.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-21120) page.
 
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-  ```yaml
-  theme: "just-the-docs"
-  ```
+#### November 2021
 
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-  ```bash
-  $ bundle exec just-the-docs rake search:init
-  ```
+* Assoc. Prof. Dr. Beyza Sarıkavak Lişesivdin was entitled to receive support for 6 months to work at Ulm University, Germany, within the scope of TÜBİTAK 2219 Program. Assoc. Prof. Dr. Sarıkavak Lişesivdin will carry out studies on “NV defect-centered synthetic diamond augmentation and quantum optical characterizations” with Prof. Dr. Fedor Jelezko at the Institute of Quantum Optics.
+* Second article in this month, **"[Investigation of Structural and Optical Properties of ZnO Thin Films Grown on Different Substrates by Mist-CVD Enhanced with Ozone Gas Produced by Corona Discharge Plasma](https://doi.org/10.1155/2021/1130829)** which is a result of our D.E.H.A Project, is published in  Advances in Condensed Matter Physics.
+* A new article, **[A novel hot carrier-induced blue light-emitting device](https://doi.org/10.1016/j.jallcom.2021.160511)**, which is a  joint study between  Istanbul University, Antalya Bilim University, Bilkent University, Gazi University and Eskisehir Technical University, is published in Journal of Alloys and Compounds.
+* New version (v21.11.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-21110) page.
+ 
+#### October 2021
 
-3. Run you local Jekyll server
-  ```bash
-  $ jekyll serve
-  ```
-  ```bash
-  # .. or if you're using a Gemfile (bundler)
-  $ bundle exec jekyll serve
-  ```
+* New version (v21.10.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-21100) page.
 
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
+#### September 2021
 
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
+* Prof. Lisesivdin and Assoc Prof. Sarikavak-Lisesivdin developed UI/GUI python scripts for GPAW users to facilate GPAW calculations easily. It is called *gpaw-tools*. It is distributed as an open-source software and can be downloaded from **[https://github.com/lrgresearch/gpaw-tools](https://github.com/lrgresearch/gpaw-tools)**. We have a website for *gpaw-tools* at **[here](https://www.lrgresearch.org/gpaw-tools/)**.
 
-### Configure Just the Docs
+#### July 2021
 
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+* Mehmet Taha Haliloglu is joined to our group. Welcome Mehmet Taha.
 
----
+#### June 2021
 
-## About the project
+* Meltem Yayla has finished her studies, passed her viva and gained her title. Congratulations Meltem Yayla, MSc.
 
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
+* Polat Narin has finished his studies, passed his viva and gained his title. Congratulations Dr. Narin.
 
-### License
+#### April 2021
 
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
+* Third article has been accepted in a month! **"[Effect of magnesium content and growth temperature on structural and optical properties of USCVD-grown MgZnO films](https://link.springer.com/article/10.1007/s00339-021-04507-8)"** which is a result of our D.E.H.A Project, is published in Applied Physics A.
 
-### Contributing
+* A new article **"[The effect of barrier layers on 2D electron effective mass in Al0.3Ga0.7N/AlN/GaN heterostructures](https://doi.org/10.1088/1361-648X/abf8d2)"**, which is a  joint study between Gazi University, Eskisehir Technical University, Rzhanov Institute of Semiconductor Physics and Novosibirsk State University, is published in J. Phys.: Condens. Matt.
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
+* A new article **"[Growth dynamics of mist-CVD grown ZnO nanoplatelets](https://doi.org/10.1016/j.physb.2021.413028)"**, which is a result of our D.E.H.A Project, is published in Physica B: Condensed Matter.
 
-#### Thank you to the contributors of Just the Docs!
+#### March 2021
+
+* Meltem Yesiltepe is joined to our group. Welcome Meltem.
+
+#### February 2021
+
+* Rector of Gazi University Prof. Dr. Musa Yıldız came together with the faculty members who contributed the most to our University with the TÜBİTAK and ERASMUS+ projects they carried out in the 2016-2020 period. Prof. Dr. S. B. Lisesivdin [received a certificate of appreciation](http://gazi.edu.tr/gazi-universitesi/view/GetMainNewsPage/266644/rektorumuz-prof-dr-musa-yildiz-yuruttugu-projelerle-universitemize-katki-saglayan-ogretim-uyeleri) because of his contributions to our university with the projects he carried out.
+
+#### January 2021
+
+* Pakize Turhan is joined to our group. Welcome Pakize.
+* Gul Ercetin is joined to our group. Welcome Gul.
+
+#### October 2020
+
+* A new article **"[The effect of passivation layer, doping and spacer layer on electron-longitudinal optical phonon momentum relaxation time in Al0.3Ga0.7N/AlN/GaN heterostructures](https://doi.org/10.1016/j.mssp.2020.105449)"**, which is a result of a joint project between Gazi University, Eskisehir Technical University, Rzhanov Institute of Semiconductor Physics and Novosibirsk State University, is published in Mater. Sci. Semicond. Process.
+
+
+[more...](newsarchive.md)
+
+## We are supporting...
+
+[![Image](assets/images/aestimosmall.gif)](http://www.aestimosolver.org/) | [Download v.2.0](https://github.com/aestimosolver/aestimo/releases/download/v2.0/aestimo-v.2.0-master.zip)
+[![Image](assets/images/gpaw-tools.png)](https://www.lrgresearch.org/gpaw-tools/) | [Download latest development release](https://github.com/lrgresearch/gpaw-tools/archive/refs/heads/main.zip)
+
+We are actively supporting to develop Aestimo 1D Self-consistent Schrödinger-Poisson solver and gpaw-tools UI/GUI for ASE/GPAW calculator.
+
+
+
+### Contributers of this site
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
@@ -94,9 +108,3 @@ email, or any other method with the owners of this repository before making a ch
   </li>
 {% endfor %}
 </ul>
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
