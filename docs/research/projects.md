@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-parent: Research
+parent: research
 nav_order: 2
 ---
  

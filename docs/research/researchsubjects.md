@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research Subjects
-parent: Research
+parent: research
 nav_order: 3
 ---
  

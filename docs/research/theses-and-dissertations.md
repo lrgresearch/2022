@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Theses and Dissertations
-parent: Research
+parent: research
 nav_order: 4
 ---
 
