@@ -6,7 +6,7 @@ nav_order: 4
 ---
 
 [Back to Research Page...](research.md)
-
+ 
 
 ### RF magnetron sputter system and passive circuit element resistor production and characterization
 *Researcher: Kemal Berk Sonmez, Supervisor: Sefer Bora Lisesivdin*

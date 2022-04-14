@@ -5,6 +5,7 @@ nav_order: 3
 has_children: true
 permalink: /docs/research
 ---
+
 # Research
 
 [Main Research Subjects](researchsubjects.md){: .btn .btn-red }
