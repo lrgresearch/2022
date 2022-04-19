@@ -1,6 +1,7 @@
 ---
 layout: default
 title: News Archive
+parent: archive
 nav_order: 1
 ---
 
