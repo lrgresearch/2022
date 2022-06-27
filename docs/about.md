@@ -3,7 +3,8 @@ layout: default
 title: About LRG
 nav_order: 1
 ---
-## About
+
+# About
 
 Low-dimensional Materials and Systems (LRG) is a research group studying the physics of semiconductor or dielectric materials with a low-dimensionality involves. For this, the effects of defects, impurities and low-dimensional shapes are investigated. As material groups, we are interested in GaN-based materials, ZnO-based materials, Carbon allotropes and Carbon-based structures (graphene, diamond and SiC) and black phosphorus. 
 
