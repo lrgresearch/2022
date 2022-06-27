@@ -14,13 +14,13 @@ permalink: /docs/research
 ---
 ## Project websites
 
-| <div style="width:200px">Project</div> | Description                           |
+| Project | Description                           |
 | -------------------------------------- | ------------------------------------ |
-| ![D.E.H.A.](../../assets/images/deha.png) | [Investigation of Growth Behaviors and 2DEG Properties of of MgZnO/ZnO Heterostructures grown by USPECVD](https://www.lrgresearch.org/deha) |
-| ![Ultrathin](../../assets/images/ultrathin.png) | [High-Performance Modelling and Experimental Investigation of Transport and Device Properties of GaN-based High Electron Mobility Transistors with Ultrathin Barriers](https://www.lrgresearch.org/ultrathin/) |
-| ![SinOnGaN](../../assets/images/sinongan.png) | [Modification of properties of two-dimensional electronic gas using insitu surface passivation of AlGaN/GaN heterostructures by molecular beam epitaxy](https://www.lrgresearch.org/sinongan/) |
-| ![graphenePD](../../assets/images/graphenepd.png) | [Investigation of the effects of transition metal palladium on electronical, structural and optical properties of graphene nanoribbons](https://www.lrgresearch.org/graphenepd/) |
-| ![oxideHEMT](../../assets/images/oxidehemt.png) | [Numerical optimization of MgxZn1-xO/ZnO and BexZn1-xO/ZnO based heterostructure transistors](https://www.lrgresearch.org/oxidehemt/) |
+| ![D.E.H.A.](../../assets/images/deha.png) | Investigation of Growth Behaviors and 2DEG Properties of of MgZnO/ZnO Heterostructures grown by USPECVD. [Visit site](https://www.lrgresearch.org/deha) |
+| ![Ultrathin](../../assets/images/ultrathin.png) | High-Performance Modelling and Experimental Investigation of Transport and Device Properties of GaN-based High Electron Mobility Transistors with Ultrathin Barriers. [Visit site](https://www.lrgresearch.org/ultrathin/) |
+| ![SinOnGaN](../../assets/images/sinongan.png) | Modification of properties of two-dimensional electronic gas using insitu surface passivation of AlGaN/GaN heterostructures by molecular beam epitaxy. [Visit site](https://www.lrgresearch.org/sinongan/) |
+| ![graphenePD](../../assets/images/graphenepd.png) | Investigation of the effects of transition metal palladium on electronical, structural and optical properties of graphene nanoribbons. [Visit site](https://www.lrgresearch.org/graphenepd/) |
+| ![oxideHEMT](../../assets/images/oxidehemt.png) | Numerical optimization of MgxZn1-xO/ZnO and BexZn1-xO/ZnO based heterostructure transistors. [Visit site](https://www.lrgresearch.org/oxidehemt/) |
 
 ---
 
