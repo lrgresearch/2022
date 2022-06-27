@@ -12,11 +12,23 @@ permalink: /
 Focus on Hybrid Investigation of Defects in 2D/3D Structures.
 {: .fs-6 .fw-300 }
 
-[More information](research.md#next-in-lrg){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[More information](research/next-in-lrg.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
 ## News
+
+### May 2022
+* New version (v22.5.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-2250) page.
+
+### April 2022
+
+* Our new project CuOxMIST: Ga2O3/Cu2O p-n junction production and related computational studies with p-type Cu2O semiconductor thin films grown by Mist-CVD" is accepted by Gazi University. Congratulations.
+* New version (v22.4.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-2240) page.
+
+### April 2022
+
+* New version (v22.4.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-2240) page.
 
 ### March 2022
 
