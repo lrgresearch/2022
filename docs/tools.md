@@ -12,7 +12,7 @@ In the future, we plan to open our data and some of our data sets to the interes
 
 ## Open-source software 
 
-| <div style="width:200px">Software</div> | Description                           |
+| Software| Description                           |
 | -------------------------------------- | ------------------------------------ |
 | ![gpaw-tools](../../assets/images/gpaw-tools.png) | [An UI/GUI for DFT and MD calculations with GPAW/ASAP/ASE](https://www.lrgresearch.org/gpaw-tools) |
 | ![Aestimo1D](../../assets/images/aestimosmall.gif) | [1D Self-consistent Schrödinger Poisson Solver](https://www.aestimosolver.org) |
@@ -20,6 +20,6 @@ In the future, we plan to open our data and some of our data sets to the interes
 
 ## Open data and datasets
 
-| <div style="width:200px">Dataset</div> | Description                           |
+| Dataset | Description                           |
 | -------------------------------------- | ------------------------------------ |
 | ![notavailable](../../assets/images/members/nopic.png) | There is no dataset available for public reach yet. |
