@@ -1,3 +1,9 @@
+---
+layout: default
+title: Next in LRG
+parent: research
+nav_order: 5
+---
 ## Next in LRG
 We believe that science and scientists should develop themselves in accordance with the spirit of the time. Adhering to this value, we are constantly asking what we can do on top of our own expertise. "Next in LRG" acts as a kind of blog for us where we write down our decisions that may affect our next few years.
 
