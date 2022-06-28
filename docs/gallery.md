@@ -4,6 +4,8 @@ title: Gallery
 nav_order: 5
 ---
 
+# Gallery
+
 ![Image](../../assets/images/gallery/grup4.jpg)
 
 **Group Photo – September 2019**
