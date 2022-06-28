@@ -4,6 +4,8 @@ title: Publications
 nav_order: 7
 ---
 
+# Publications
+
 The articles are copyrighted (©) by the respective publishers. Please do not hesitate to contact to obtain author copies of the articles.
 
 ## SCI Articles
