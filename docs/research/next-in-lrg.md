@@ -19,7 +19,7 @@ We also formed a sister lab at Lab-305 room. It is called Defect Hybrid Analysis
 
 ### Hybrid Operation in every situation
 
-**Sep 15, 2021. S. B. Lisesivdin**
+*Nov 23, 2020. S. B. Lisesivdin*
 
 With the COVID-19 pandemic, our lives change invariably. As scientists and faculty members of a Gazi University, we have already changed to many things in our education system. With addition of our past experiences involving long term experimental system shutdowns, constructions and similar unpredictable problems we adapted and improved ourselves how to work and what to work.
 
