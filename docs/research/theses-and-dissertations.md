@@ -8,6 +8,13 @@ nav_order: 4
 [Back to Research Page...](research.md)
  
 
+### Investigation of structural and electrical properties of ZnO thin films by mist chemical vapor deposition method on sapphire with different orientation
+*Researcher: Meltem Yayla, Supervisor: Mehmet Kasap*
+
+In this study, ZnO thin films on sapphire substrates with c-, r-, m- orientation were grown by Mist-CVD method. ZnO samples were grown under enriched ozone gas atmosphere at 350℃ temperature for 30 minutes. X-Ray Diffraction (XRD), Atomic Force Microscope (AFM) and Scanning Electron Microscopy (SEM), Raman spectroscopy and Hall effect measurements were carried out. According to XRD results grown ZnO films have hexagonal phase. Both AFM and SEM images are shown a continues and homogenous films on the surface. The vibration modes related to hexagonal ZnO are observed by Raman spectroscopy. The XRD peaks of ZnO has become stronger after the annealing of properties of the grown samples. The obtained results indicate that ZnO thin films with quality on sapphire substrates with different orientation are grown by mist chemical vapor deposition.
+
+---
+
 ### RF magnetron sputter system and passive circuit element resistor production and characterization
 *Researcher: Kemal Berk Sonmez, Supervisor: Sefer Bora Lisesivdin*
 
@@ -16,7 +23,7 @@ MMIC chips, which are used in almost all of the microwave components that consti
 ---
 
 ### Back side via hole etching application of SiC for GaN based field effect transistors
-*Researcher:Mehmet Taha Haliloglu, Supervisor: Sefer Bora Lisesivdin*
+*Researcher: Mehmet Taha Haliloglu, Supervisor: Sefer Bora Lisesivdin*
 
 Transistors have a significant role in semiconductor technology. Transistors are mainly composed of three components as source, drain and gate metals. These structures provide electrical conduction by placing the source, drain and gate metals on a semiconductor. High power, high frequency and fast switching operations can be made by these structures. Recently, transistors or monolithic microwave integrated circuits (MMIC) are designed and manufactured according to different needs. Various methods have been developed to improve the performance and optimization of these devices produced for different purposes. One of these methods is the via hole application. In the part of so-called back side processes of semiconductor device production, a well opening process for contacting the material with the device metals on the front side is referred to as the via hole. With this method substrates are thinned to 100 µm from back-side, contact is provided to weld metal on the front side. The weld metal is grounded from the bottom of the substrate by this contact. This method has been developed by aiming to reduce the inductance of source metal electrically. The via hole process was performed on the silicon carbide (SiC) material known as the hardest material after diamond. The optimization and dry etching mechanism of the via hole process with fluorine-based dry etching method of SiC material by using reactive ion etching system (ICP RIE) with inductive coupled plasma has been reported on this study. With describing whole via hole dry etching process back-side operations are discussed. The SEM system was used to analyze the results of the etching process. As a result of DC measurement, it has been show that the resistance of SiC via hole structures were analyzed.
 
