@@ -5,7 +5,7 @@ parent: archive
 nav_order: 1
 ---
 
-The latest news can be found at our [home page](index.md). This page is the archive.
+The latest news can be found at our [home page](../../index.md). This page is the archive.
 
 ### September 2020
 
