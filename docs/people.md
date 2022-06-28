@@ -4,6 +4,8 @@ title: Members
 nav_order: 6
 ---
 
+# People
+
 ## Faculty Members
 
 ![MKasap](../../assets/images/members/mkasap.jpg) | [Prof. Dr. Mehmet Kasap](https://avesis.gazi.edu.tr/mkasap)
