@@ -19,13 +19,11 @@ nav_order: 6
 ## Graduate (PhD/Masters) Students
 
 ![EKutluNarin](../../assets/images/members/ece.jpg) | Mrs Ece Kutlu Narin, MSc (@ Ankara University, SBL is 2nd supervisor)
-![MYesiltepe](../../assets/images/members/nopic.png) | Ms Meltem Yesiltepe, BEng, MSc
-![MTHaliloglu](../../assets/images/members/nopic.png) | Mr Mehmet Taha Haliloglu, MSc
-![MYayla](../../assets/images/members/nopic.png) | Ms Meltem Yayla, BSc
+![MYesiltepe](../../assets/images/members/nopic.png) | Ms Meltem Yesiltepe, BEng, MSc (@ TUBITAK UZAY)
+![MTHaliloglu](../../assets/images/members/nopic.png) | Mr Mehmet Taha Haliloglu, MSc (@ AB Mikronano)
+![KBSonmez](../../assets/images/members/nopic.png) | Mr Kemal Berk Sonmez, MSc (@ METU MEMS)
 ![THan](../../assets/images/members/nopic.png) | Ms Tugce Han, BSc
-![GErcetin](../../assets/images/members/nopic.png) | Ms Gul Ercetin, BSc
-![PTurhan](../../assets/images/members/nopic.png) | Mrs Pakize Turhan, BSc
-![UCaglar](../../assets/images/members/nopic.png) | Mr. Umut Caglar, BEng
+![PTurhan](../../assets/images/members/nopic.png) | Mrs Pakize Turhan, BSc (@ TUSAS)
 ![SKazanc](../../assets/images/members/nopic.png) | Mr. Sefa Kazanc, BEng (@ Faculty of Technology, SBL is 2nd supervisor)
 
 ## Collaborations (Alphabetically listed)
@@ -46,8 +44,9 @@ nav_order: 6
 
 ### MSc
 
+* Meltem Yayla
 * Ece Kutlu Narin @ Ankara Univ, Turkey.
-* Kemal Berk Sonmez @ Roketsan, Turkey.
+* Kemal Berk Sonmez @ METU MEMS, Turkey.
 * Mehmet Taha Haliloglu @ AB Mikronano, Turkey.
 * Rokaia Ibrahem @ Istanbul University, Turkey.
 * Oznur Omeroglu @ Eskisehir Technical University, Turkey.
