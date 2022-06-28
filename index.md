@@ -12,7 +12,7 @@ permalink: /
 Focus on Hybrid Investigation of Defects in 2D/3D Structures.
 {: .fs-6 .fw-300 }
 
-[More information](research/next-in-lrg.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[More information](research/next-in-lrg){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
