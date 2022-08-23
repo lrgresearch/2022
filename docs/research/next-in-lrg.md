@@ -7,6 +7,16 @@ nav_order: 5
 # Next in LRG
 We believe that science and scientists should develop themselves in accordance with the spirit of the time. Adhering to this value, we are constantly asking what we can do on top of our own expertise. "Next in LRG" acts as a kind of blog for us where we write down our decisions that may affect our next few years.
 
+## CuOXMist and expanding the investigation of 2D/3D materials with defects and impurities
+
+*Aug 23, 2022. S. B. Lisesivdin*
+
+A year ago, we had some obstacles before we could start the scientific studies we envisioned for 2022. During this period, our experimental-based project named CuOXMist, which includes copper oxide and gallium oxide growths, was accepted within our university and became active as of April 2022. Getting our computational studies to use GPAW and our own gpaw-tools was a time-consuming process. We wrote code for long hours on gpaw-tools software with our own means. And as of about July, gpaw-tools has been able to perform polyatomic LCAO calculations as we want. We have accelerated our computational studies as of July, and we have given importance to gather experience in this field, which we have not been able to give due importance to in the last few years.
+
+When we look at 2023, we foresee that our work will focus on the above-mentioned issues. Our experimental work will focus on oxide thin films and multistructures that we will grow within the scope of the CuOXMist project. In the computational field, we will focus on the calculations of some oxide materials associated with CuOXMist and the effects of defects and impurities in 2D and 3D different materials on the electronic, elastic and optical properties of those structures. It will be our priority to examine many different materials, find bugs in gpaw-tools, specialize in software and different accounts. We can specialize in some of these interesting subjects in the following years.  
+
+Apart from this, we will have many educational activities in 2023. In addition to the courses and students in Gazi University Science Institute, we will start teaching and employing graduate students at the Informatics Institute for the first time this year. We think that these activities in the Informatics Institute will make additional contributions to our computational studies and coding processes.
+
 ## Focus on Hybrid Investigation of Defects in 2D/3D Structures
 
 *Sep 15, 2021. S. B. Lisesivdin*
