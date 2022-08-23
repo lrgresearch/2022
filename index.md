@@ -20,6 +20,7 @@ CuOXMist and expanding the investigation of 2D/3D materials with defects and imp
 
 ### August 2022
 
+* Our website is renewed with [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme. It is more responsive, detailed and ordered now.
 * A new article **"[Morphological and optical characterizations of different ZnO nanostructures grown by mist-CVD](https://doi.org/10.1016/j.jlumin.2022.119158)"** is published in J. Lumin.
 
 ### July 2022
