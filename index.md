@@ -6,10 +6,10 @@ description: "Low-dimensional Materials and Systems Research Group @ Gazi Univ."
 permalink: /
 ---
 
-# Next in LRG 2022.
+# Next in LRG 2023.
 {: .fs-9 }
 
-Focus on Hybrid Investigation of Defects in 2D/3D Structures.
+CuOXMist and expanding the investigation of 2D/3D materials with defects and impurities.
 {: .fs-6 .fw-300 }
 
 [More information](docs/research/next-in-lrg){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
