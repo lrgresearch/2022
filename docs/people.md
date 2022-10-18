@@ -25,6 +25,7 @@ nav_order: 6
 ![THan](../../assets/images/members/nopic.png) | Ms Tugce Han, BSc
 ![PTurhan](../../assets/images/members/nopic.png) | Mrs Pakize Turhan, BSc (@ TUSAS)
 ![SKazanc](../../assets/images/members/nopic.png) | Mr. Sefa Kazanc, BEng (@ Faculty of Technology, SBL is 2nd supervisor)
+![VUncu](../../assets/images/members/nopic.png) | Mr. Volkan Uncu, BSc
 
 ## Collaborations (Alphabetically listed)
 
