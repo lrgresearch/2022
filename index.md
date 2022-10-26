@@ -20,7 +20,7 @@ CuOXMist and expanding the investigation of 2D/3D materials with defects and imp
 
 ### October 2022
 
-* A new artice **"Effect of Sulfur Concentration on Structural, Optical and Electrical Properties of Cu2CoSnS4 Absorber Film for Photovoltaic devices"** is accepted to be published in Physica B.
+* A new artice **"[Effect of Sulfur Concentration on Structural, Optical and Electrical Properties of Cu2CoSnS4 Absorber Film for Photovoltaic devices](https://doi.org/10.1016/j.physb.2022.414424)"** is published in Physica B.
 * Volkan Uncu is joined to our group. Welcome Volkan.
 
 ### August 2022
