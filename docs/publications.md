@@ -10,6 +10,10 @@ The articles are copyrighted (©) by the respective publishers. Please do not he
 
 ## SCI Articles
 
+### 2023
+
+82.) G. Y. Senguler, E. Kutlu-Narin, S.B. Lisesivdin, T.Serin, "Effect of sulfur concentration on structural, optical and electrical properties of Cu2CoSnS4 absorber film for photovoltaic devices" Physica B 648, 414424 (2023).
+
 ### 2022
 
 81.) P. Narin, E. Kutlu‐Narin, S. Kayral, R. Tulek, S. Gokden, A. Teke, S. B. Lisesivdin, "Morphological and optical characterizations of different ZnO nanostructures grown by mist-CVD" J. Lumin. 251, 119158 (2022).
