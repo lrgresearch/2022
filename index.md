@@ -20,7 +20,7 @@ CuOXMist and expanding the investigation of 2D/3D materials with defects and imp
 
 ### February 2023
 
-* New version (v23.2.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-2320) page.
+* New version (v23.2.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/development/releasenotes/#version-2320) page.
 
 ### October 2022
 
@@ -35,20 +35,20 @@ CuOXMist and expanding the investigation of 2D/3D materials with defects and imp
 ### July 2022
 
 * [Aestimo 1D version 3.0](https://www.aestimosolver.org/) is released. This is a major release nearly again 2 years after. Because the code base was complicated and the usage of Aestimo was hard to understand, this release is mostly a simplification and clean-up release. Please visit to [release notes](https://www.aestimosolver.org/releasenotes.html#v300-july-13-2022) for more information.
-* New version (v22.7.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-2270) page.
+* New version (v22.7.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/development/releasenotes/#version-2270) page.
 
 ### May 2022
-* New version (v22.5.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-2250) page.
+* New version (v22.5.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/development/releasenotes/#version-2250) page.
 
 ### April 2022
 
 * Our new project CuOxMIST: Ga2O3/Cu2O p-n junction production and related computational studies with p-type Cu2O semiconductor thin films grown by Mist-CVD" is accepted by Gazi University. Congratulations.
-* New version (v22.4.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-2240) page.
+* New version (v22.4.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/development/releasenotes/#version-2240) page.
 
 ### March 2022
 
 * Beyza Lisesivdin, has been appointed to full professor to Gazi University, Faculty of Science, Department of Physics. Congratulations.
-* New version (v22.3.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-2230) page.
+* New version (v22.3.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/development/releasenotes/#version-2230) page.
 
 ### February 2022
 
@@ -62,14 +62,14 @@ CuOXMist and expanding the investigation of 2D/3D materials with defects and imp
 
 ### December 2021
 
-* New version (v21.12.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-21120) page.
+* New version (v21.12.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/development/releasenotes/#version-21120) page.
 
 ### November 2021
 
 * Assoc. Prof. Dr. Beyza Sarıkavak Lişesivdin was entitled to receive support for 6 months to work at Ulm University, Germany, within the scope of TÜBİTAK 2219 Program. Assoc. Prof. Dr. Sarıkavak Lişesivdin will carry out studies on “NV defect-centered synthetic diamond augmentation and quantum optical characterizations” with Prof. Dr. Fedor Jelezko at the Institute of Quantum Optics.
 * Second article in this month, "[Investigation of Structural and Optical Properties of ZnO Thin Films Grown on Different Substrates by Mist-CVD Enhanced with Ozone Gas Produced by Corona Discharge Plasma](https://doi.org/10.1155/2021/1130829) which is a result of our D.E.H.A Project, is published in  Advances in Condensed Matter Physics.
 * A new article, [A novel hot carrier-induced blue light-emitting device](https://doi.org/10.1016/j.jallcom.2021.160511), which is a  joint study between  Istanbul University, Antalya Bilim University, Bilkent University, Gazi University and Eskisehir Technical University, is published in Journal of Alloys and Compounds.
-* New version (v21.11.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-21110) page.
+* New version (v21.11.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/development/releasenotes/#version-21110) page.
  
 [more...](newsarchive.md)
 
