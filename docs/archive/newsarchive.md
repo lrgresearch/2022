@@ -11,7 +11,7 @@ The latest news can be found at our [home page](../../index.md). This page is th
 
 ### October 2021
 
-* New version (v21.10.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-21100) page.
+* New version (v21.10.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/development/releasenotes/#version-21100) page.
 
 ### September 2021
 
