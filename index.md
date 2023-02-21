@@ -21,6 +21,7 @@ CuOXMist and expanding the investigation of 2D/3D materials with defects and imp
 ### February 2023
 
 * New version (v23.2.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/development/releasenotes/#version-2320) page.
+* Hakan Yakupoğlu is joined our group. Welcome, Hakan.
 
 ### October 2022
 
