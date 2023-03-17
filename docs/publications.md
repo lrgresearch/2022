@@ -12,7 +12,7 @@ The articles are copyrighted (©) by the respective publishers. Please do not he
 
 ### 2023
 
-83.) P. Narin, J. M. All Abbas, E. Kutlu-Narin, S. B. Lisesivdin, E. Ozbay "First principles calculations of electronic and optical properties pf InSe nanosheets doped with noble metal atoms" Compt. Mater. Sci. 222, 112114 (2023)
+83.) P. Narin, J. M. All Abbas, E. Kutlu-Narin, S. B. Lisesivdin, E. Ozbay "First principles calculations of electronic and optical properties of InSe nanosheets doped with noble metal atoms" Compt. Mater. Sci. 222, 112114 (2023)
 
 82.) G. Y. Senguler, E. Kutlu-Narin, S.B. Lisesivdin, T.Serin, "Effect of sulfur concentration on structural, optical and electrical properties of Cu2CoSnS4 absorber film for photovoltaic devices" Physica B 648, 414424 (2023).
 
