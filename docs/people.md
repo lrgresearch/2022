@@ -21,7 +21,6 @@ nav_order: 6
 ![EKutluNarin](../../assets/images/members/ece.jpg) | Mrs Ece Kutlu Narin, MSc (@ Ankara University, SBL is 2nd supervisor)
 ![MYesiltepe](../../assets/images/members/nopic.png) | Ms Meltem Yesiltepe, BEng, MSc (@ TUBITAK UZAY)
 ![MTHaliloglu](../../assets/images/members/nopic.png) | Mr Mehmet Taha Haliloglu, MSc (@ AB Mikronano)
-![KBSonmez](../../assets/images/members/nopic.png) | Mr Kemal Berk Sonmez, MSc (@ METU MEMS)
 ![THan](../../assets/images/members/nopic.png) | Ms Tugce Han, BSc
 ![PTurhan](../../assets/images/members/nopic.png) | Mrs Pakize Turhan, BSc (@ TUSAS)
 ![SKazanc](../../assets/images/members/nopic.png) | Mr. Sefa Kazanc, BEng (@ Faculty of Technology, SBL is 2nd supervisor)
