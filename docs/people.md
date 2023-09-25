@@ -9,7 +9,7 @@ nav_order: 6
 ## Faculty Members
 
 ![MKasap](../../assets/images/members/mkasap.jpg) | [Prof. Dr. Mehmet Kasap](https://avesis.gazi.edu.tr/mkasap)
-![SBLisesivdin](../../assets/images/members/bora.jpg) | [Prof. Dr. Sefer Bora Lisesivdin](https://www.lrgresearch.org/bora/)
+![SBLisesivdin](../../assets/images/members/sbl150.png) | [Prof. Dr. Sefer Bora Lisesivdin](https://www.lrgresearch.org/bora/)
 ![BLisesivdin](../../assets/images/members/nopic.png) | [Prof. Dr. Beyza Lisesivdin](https://avesis.gazi.edu.tr/beyzas)
 
 ## Postdoctorate Research Fellow
