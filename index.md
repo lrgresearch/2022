@@ -18,6 +18,10 @@ CuOXMist and expanding the investigation of 2D/3D materials with defects and imp
 
 ## News
 
+### October 2023
+
+* New version (v23.10.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). Please refer to [release notes](https://www.lrgresearch.org/gpaw-tools/development/releasenotes/#version-23100).
+
 ### July 2023
 
 * New version (v23.7.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). There are many new features in this version: Phonon calculations, energy consumption measurement, and more. Please refer to [release notes](https://www.lrgresearch.org/gpaw-tools/development/releasenotes/#version-2370).
