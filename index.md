@@ -20,6 +20,7 @@ CuOXMist and expanding the investigation of 2D/3D materials with defects and imp
 
 ### October 2023
 
+* A new article "[Electronic Properties of a Novel Boron Polymorph: Ogee-Borophene](https://doi.org/10.1155/2023/9933049)" is published in Adv. Condens. Matter Phys.
 * New version (v23.10.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). Please refer to [release notes](https://www.lrgresearch.org/gpaw-tools/development/releasenotes/#version-23100).
 
 ### July 2023
@@ -33,15 +34,20 @@ CuOXMist and expanding the investigation of 2D/3D materials with defects and imp
 * A. Fatih Kuloglu joined our group once again for his doctoral study. Welcome back, Fatih.
 * Umit Sahin joined our group for his doctoral study. Welcome Umit.
 
+### March 2023
+
+* A new article "[Structural and optical properties of mist-CVD grown MgZnO: Effect of precursor solution composition](https://doi.org/10.1016/j.physb.2023.414854)" is published in Physica B.
+* A new article "[First principles calculations of electronic and optical properties of InSe nanosheets doped with noble metal atoms](https://doi.org/10.1016/j.commatsci.2023.112114)" is published in Comput. Mater. Sci.
+
 ### February 2023
 
 * New version (v23.2.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new on [release notes](https://www.lrgresearch.org/gpaw-tools/development/releasenotes/#version-2320) page.
-* Hakan Yakupoğlu is joined our group. Welcome, Hakan.
+* Hakan Yakupoğlu has joined our group. Welcome, Hakan.
 
 ### October 2022
 
 * A new article "[Effect of Sulfur Concentration on Structural, Optical and Electrical Properties of Cu2CoSnS4 Absorber Film for Photovoltaic devices](https://doi.org/10.1016/j.physb.2022.414424)" is published in Physica B.
-* Volkan Uncu is joined our group. Welcome Volkan.
+* Volkan Uncu has joined our group. Welcome Volkan.
 
 ### August 2022
 
