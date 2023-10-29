@@ -20,7 +20,7 @@ CuOXMist and expanding the investigation of 2D/3D materials with defects and imp
 
 ### October 2023
 
-* On the 100th anniversary (Oct 29th, 2023) of our independent Turkish republic, we commemorate with gratitude all our martyrs and veterans who enabled us to do science freely.
+* ![100th Anniversary](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/tr.png) On the 100th anniversary (Oct 29th, 2023) of our independent Turkish republic, we commemorate with gratitude all our martyrs and veterans who enabled us to do science freely.
 * A new article "[Electronic Properties of a Novel Boron Polymorph: Ogee-Borophene](https://doi.org/10.1155/2023/9933049)" is published in Adv. Condens. Matter Phys.
 * New version (v23.10.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). Please refer to [release notes](https://www.lrgresearch.org/gpaw-tools/development/releasenotes/#version-23100).
 
