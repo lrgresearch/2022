@@ -6,11 +6,15 @@ nav_order: 7
 
 # Publications
 
-The articles are copyrighted (©) by the respective publishers. Please do not hesitate to contact to obtain author copies of the articles.
+The articles are copyrighted (©) by the respective publishers. Please do not hesitate to contact me to obtain author copies of the articles.
 
 ## SCI Articles
 
 ### 2023
+
+85.) B. Sarikavak-Lisesivdin, S. B. Lisesivdin "Electronic Properties of a Novel Boron Polymorph: Ogee-Borophene" Adv. Condens. Matter Phys. 2023, 9933049 (2023).
+
+84.) T. Han, E. Kutlu-Narin, P. Narin, B. Sarikavak-Lisesivdin, S. B. Lisesivdin "Structural and optical properties of mist-CVD grown MgZnO: Effect of precursor solution composition" Physica B: Condensed Matter, 659, 414854 (2023).
 
 83.) P. Narin, J. M. All Abbas, E. Kutlu-Narin, S. B. Lisesivdin, E. Ozbay "First principles calculations of electronic and optical properties of InSe nanosheets doped with noble metal atoms" Compt. Mater. Sci. 222, 112114 (2023)
 
