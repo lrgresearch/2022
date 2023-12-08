@@ -2,14 +2,14 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Low-dimensional Materials and Systems Research Group @ Gazi Univ."
+description: "Low-dimensional Materials and Systems Research Laboratory @ Gazi Univ."
 permalink: /
 ---
 
-# Next in LRG 2023.
+# Next in LRG 2024.
 {: .fs-9 }
 
-CuOXMist and expanding the investigation of 2D/3D materials with defects and impurities.
+Consolidating Our Scientific Efforts.
 {: .fs-6 .fw-300 }
 
 [More information](docs/research/next-in-lrg){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
