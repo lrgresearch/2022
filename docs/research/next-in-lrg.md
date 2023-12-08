@@ -5,7 +5,25 @@ parent: research
 nav_order: 5
 ---
 # Next in LRG
-We believe that science and scientists should develop themselves in accordance with the spirit of the time. Adhering to this value, we are constantly asking what we can do on top of our own expertise. "Next in LRG" acts as a kind of blog for us where we write down our decisions that may affect our next few years.
+Science and scientists should develop themselves in accordance with the spirit of the time. Adhering to this value, we constantly ask what we can do on top of our expertise. "Next in LRG" acts as a kind of blog for us where we write down our decisions that may affect our next few years.
+
+## Consolidating Our Scientific Efforts
+
+*Dec 08, 2023. S. B. Lisesivdin*
+
+As we enter the promising year 2024, Gazi University Low-Dimensional Materials and Systems Laboratory stands at the intersection of thinking and expectation. This year, our focus will be on harmonizing knowledge and innovation by bringing together the different topics of our scientific pursuits. In this sense, this year will be a year of consolidation.
+
+**1. Consolidation of Research Topics:**
+In the spirit of growth and evolution, we are organizing our focus to delve deeper into critical areas of interest, building on the foundations laid in previous years to consolidate our research topics. The CuOXMist project remains a cornerstone, and we aim to build on our research into thin oxide films and doped oxide films in 2024. By combining our efforts, we hope to gain a more comprehensive understanding of the complexities of these material systems.
+
+**2. Consolidation of Equipment and Software:**
+A research group is only as strong as its tools; recognizing this, we are dedicating 2024 to consolidating our equipment and software. Our journey with GPAW and gpaw-tools has been transformative, and we are now ready to maximize the potential of these tools. We will have a similar consolidation effort in our experimental equipment.
+
+**3. Hybrid Work Philosophy:**
+The LRG has a hybrid approach to work, embracing flexibility in workspaces, subjects, and studying. This year, we are reaffirming our commitment to the hybrid working philosophy. Whether we focus on work in the lab or remotely, experimental or computational, we will combine our strengths to adapt to each situation.
+
+As a result, consolidation emerges as the guiding principle as the LRG embarks on its next journey in 2024. We aim to strengthen the foundations of our scientific endeavors through the consolidation of research topics, equipment and software, and our working philosophy. See you next year.
+
 
 ## CuOXMist and expanding the investigation of 2D/3D materials with defects and impurities
 
