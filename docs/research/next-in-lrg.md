@@ -8,12 +8,12 @@ nav_order: 5
 Science and scientists should develop themselves by the spirit of the time. Adhering to this value, we constantly ask what we can do on top of our expertise. "Next in LRG" acts as a kind of blog for us where we write down our decisions that may affect our next few years.
 
 ## Embracing New Tools and Expanding Our Horizons
-*Oct 22, 2025. S. B. Lisesivdin*
+*Oct 22, 2024. S. B. Lisesivdin*
 
-As we enter 2025, the LRG group at Gazi University continues its journey of scientific discovery. This year promises to be transformative as we shift towards innovative tools, explore intriguing materials, and advance our ongoing projects with renewed focus and energy.
+As we approach 2025, the LRG group at Gazi University continues its journey of scientific discoveries. This year promises to be transformative as we shift towards innovative tools, explore intriguing materials, and advance our ongoing projects with renewed focus and energy.
 
-**1. Transition to TRUBA Cluster for Computational Studies:**
-One of the most significant changes for 2025 will be in our Density Functional Theory (DFT) studies. In 2024, we decommissioned many of our computers due to their age. After years of relying on our local machines for GPAW calculations (and ATK in the past), we are now migrating to the TRUBA cluster to run our Quantum ESPRESSO (QE) simulations. This powerful resource will enhance our ability to conduct large-scale simulations with many atoms. However, our commitment to GPAW remains strong. We will continue to support and develop our in-house *gpaw-tools* software, ensuring it remains an essential part of our computational toolkit.
+**1. Transition to work on HPC for Computational Studies:**
+One of the most significant changes for 2025 will be in our Density Functional Theory (DFT) studies. In 2024, we decommissioned many of our computers due to their age. And, due to economic difficulties, we can not put new computers in our laboratory. By the time the ARF cluster, which is in the Top 500, started to work at TRUBA.  After years of relying on our local machines for GPAW calculations (and ATK in the past), we are now migrating to the TRUBA cluster to run our Quantum ESPRESSO (QE) simulations. This powerful resource will enhance our ability to conduct large-scale simulations with many atoms. However, our commitment to GPAW remains strong. We will continue to support and develop our in-house *gpaw-tools* software, ensuring it remains an essential part of our computational toolkit. And we will strongly use it in our BSc and MSc thesis works.
 
 **2. Experimental Focus: Ca-Doped Silicon for Single Photon Emitters:**
 On the experimental front, our attention will turn to investigating Ca-doped Silicon. The fascinating properties of Calcium, particularly its long T2 relaxation times, offer the potential to introduce defects that may enable silicon-based single photon emission. If successful, this study could open up new possibilities in quantum technologies, with applications ranging from quantum communication to cryptography. If not, it will provide an important amount of information to the literature about the doping properties of Calcium in Silicon.
