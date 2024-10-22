@@ -5,16 +5,32 @@ parent: research
 nav_order: 5
 ---
 # Next in LRG
-Science and scientists should develop themselves in accordance with the spirit of the time. Adhering to this value, we constantly ask what we can do on top of our expertise. "Next in LRG" acts as a kind of blog for us where we write down our decisions that may affect our next few years.
+Science and scientists should develop themselves by the spirit of the time. Adhering to this value, we constantly ask what we can do on top of our expertise. "Next in LRG" acts as a kind of blog for us where we write down our decisions that may affect our next few years.
+
+## Embracing New Tools and Expanding Our Horizons
+*Oct 22, 2025. S. B. Lisesivdin*
+
+As we enter 2025, the LRG group at Gazi University continues its journey of scientific discovery. This year promises to be transformative as we shift towards innovative tools, explore intriguing materials, and advance our ongoing projects with renewed focus and energy.
+
+**1. Transition to TRUBA Cluster for Computational Studies:**
+One of the most significant changes for 2025 will be in our Density Functional Theory (DFT) studies. In 2024, we decommissioned many of our computers due to their age. After years of relying on our local machines for GPAW calculations (and ATK in the past), we are now migrating to the TRUBA cluster to run our Quantum ESPRESSO (QE) simulations. This powerful resource will enhance our ability to conduct large-scale simulations with many atoms. However, our commitment to GPAW remains strong. We will continue to support and develop our in-house *gpaw-tools* software, ensuring it remains an essential part of our computational toolkit.
+
+**2. Experimental Focus: Ca-Doped Silicon for Single Photon Emitters:**
+On the experimental front, our attention will turn to investigating Ca-doped Silicon. The fascinating properties of Calcium, particularly its long T2 relaxation times, offer the potential to introduce defects that may enable silicon-based single photon emission. If successful, this study could open up new possibilities in quantum technologies, with applications ranging from quantum communication to cryptography. If not, it will provide an important amount of information to the literature about the doping properties of Calcium in Silicon.
+
+**3. Continuing to Build on Our Expertise:**
+LRG remains committed to leveraging the collective expertise we've cultivated over the years. We will continue to study low-dimensional materials, including nanoribbons, GaN-based materials, and carbon allotropes, while integrating new 2D materials into our research scope. Exploring defects, impurities, and structural nuances in these materials will be central to our thesis/dissertation work.
+
+As always, LRG works on adapting to new scientific tools and opportunities, driven by the spirit of innovation. We look forward to sharing our progress and insights with the scientific community.
 
 ## Consolidating Our Scientific Efforts
 
 *Dec 08, 2023. S. B. Lisesivdin*
 
-As we enter the promising year 2024, Gazi University Low-Dimensional Materials and Systems Laboratory stands at the intersection of thinking and expectation. This year, our focus will be on harmonizing knowledge and innovation by bringing together the different topics of our scientific pursuits. In this sense, this year will be a year of consolidation.
+As we enter the promising year 2024, Gazi University Low-Dimensional Materials and Systems Laboratory stands at the intersection of thinking and expectation. This year, we will focus on harmonizing knowledge and innovation by bringing together the different topics of our scientific pursuits. In this sense, this year will be a year of consolidation.
 
 **1. Consolidation of Research Topics:**
-In the spirit of growth and evolution, we are organizing our focus to delve deeper into critical areas of interest, building on the foundations laid in previous years to consolidate our research topics. The CuOXMist project remains a cornerstone, and we aim to build on our research into thin oxide films and doped oxide films in 2024. By combining our efforts, we hope to gain a more comprehensive understanding of the complexities of these material systems.
+In the spirit of growth and evolution, we are organizing our focus to delve deeper into critical areas of interest, consolidating our research topics by building on the foundations laid in previous years. The CuOXMist project remains a cornerstone, and we aim to build on our research into thin and doped oxide films in 2024. By combining our efforts, we hope to gain a more comprehensive understanding of the complexities of these material systems.
 
 **2. Consolidation of Equipment and Software:**
 A research group is only as strong as its tools; recognizing this, we are dedicating 2024 to consolidating our equipment and software. Our journey with GPAW and gpaw-tools has been transformative, and we are now ready to maximize the potential of these tools. We will have a similar consolidation effort in our experimental equipment.
@@ -22,18 +38,18 @@ A research group is only as strong as its tools; recognizing this, we are dedica
 **3. Hybrid Work Philosophy:**
 The LRG has a hybrid approach to work, embracing flexibility in workspaces, subjects, and studying. This year, we are reaffirming our commitment to the hybrid working philosophy. Whether we focus on work in the lab or remotely, experimental or computational, we will combine our strengths to adapt to each situation.
 
-As a result, consolidation emerges as the guiding principle as the LRG embarks on its next journey in 2024. We aim to strengthen the foundations of our scientific endeavors through the consolidation of research topics, equipment and software, and our working philosophy. See you next year.
+As a result, consolidation emerges as the guiding principle as the LRG embarks on its next journey in 2024. By consolidating research topics, equipment and software, and our working philosophy, we aim to strengthen the foundations of our scientific endeavors. See you next year.
 
 
 ## CuOXMist and expanding the investigation of 2D/3D materials with defects and impurities
 
 *Aug 23, 2022. S. B. Lisesivdin*
 
-A year ago, we had some obstacles before we could start the scientific studies we envisioned for 2022. During this period, our experimental-based project named CuOXMist, which includes copper oxide and gallium oxide growths, was accepted within our university and became active as of April 2022. Getting our computational studies to use GPAW and our own gpaw-tools was a time-consuming process. We wrote code for long hours on gpaw-tools software with our own means. And as of about July, gpaw-tools has been able to perform polyatomic LCAO calculations as we want. We have accelerated our computational studies as of July, and we have given importance to gather experience in this field, which we have not been able to give due importance to in the last few years.
+We had some obstacles a year ago before starting the scientific studies we envisioned for 2022. During this period, our experimental-based CuOXMist project, which includes copper oxide and gallium oxide growths, was accepted within our university and became active as of April 2022. Getting our computational studies to use GPAW and our gpaw-tools was time-consuming. We wrote code for long hours on gpaw-tools software using our means. And as of about July, gpaw-tools has been able to perform polyatomic LCAO calculations as we want. We have accelerated our computational studies as of July, and we have given importance to gathering experience in this field, which we have yet to be able to give due importance to in the last few years.
 
-When we look at 2023, we foresee that our work will focus on the above-mentioned issues. Our experimental work will focus on oxide thin films and multistructures that we will grow within the scope of the CuOXMist project. In the computational field, we will focus on the calculations of some oxide materials associated with CuOXMist and the effects of defects and impurities in 2D and 3D different materials on the electronic, elastic and optical properties of those structures. It will be our priority to examine many different materials. We can also specialize in some of these interesting subjects in the following years.  
+Looking at 2023, we foresee our work focusing on the issues mentioned above. Our experimental work will focus on oxide thin films and multistructures that we will grow within the scope of the CuOXMist project. In the computational field, we will focus on the calculations of some oxide materials associated with CuOXMist and the effects of defects and impurities in 2D and 3D materials on the electronic, elastic, and optical properties of those structures. It will be our priority to examine many different materials. We can also specialize in some interesting subjects in the following years.  
 
-Apart from this, we will have many educational activities in 2023. In addition to the courses and students in Gazi University Science Institute, we will start teaching and employing graduate students at the Informatics Institute for the first time this year. We think that these activities in the Informatics Institute will make additional contributions to our computational studies and coding processes.
+In addition to this, we will have many educational activities in 2023. In addition to the courses and students in Gazi University Science Institute, we will start teaching and employing graduate students at the Informatics Institute for the first time this year. We think these activities in the Informatics Institute will contribute to our computational studies and coding processes.
 
 ## Focus on Hybrid Investigation of Defects in 2D/3D Structures
 
