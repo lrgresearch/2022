@@ -18,6 +18,11 @@ Consolidating Our Scientific Efforts.
 
 ## News
 
+### June 2024
+
+* New version (v24.6.1) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). Please refer to [release notes](https://www.lrgresearch.org/gpaw-tools/development/releasenotes/#version-2461).
+* New version (v24.6.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). Please refer to [release notes](https://www.lrgresearch.org/gpaw-tools/development/releasenotes/#version-2460).
+
 ### October 2023
 
 * ![100th Anniversary](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/tr.png) On the 100th anniversary (Oct 29th, 2023) of our independent Turkish Republic, we commemorate with gratitude all our martyrs and veterans who enabled us to do science freely.
